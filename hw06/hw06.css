@@ -1,0 +1,25 @@
+table {
+  width: 300px;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.number, #cancel {
+  width: 60px;
+  height: 40px;
+}
+
+#screen {
+  width: calc(100% - 13px);
+  height: 40px;
+  margin: 10px 0;
+  padding: 5px;
+}
+
+#equal {
+  width: 60px;
+  height: 170px;
+  background-color: rgb(0, 149, 255);
+  color: white;
+  border: none;
+}
