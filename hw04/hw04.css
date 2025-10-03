@@ -1,0 +1,25 @@
+.box-container {
+  display: flex;
+  gap: 10px;
+}
+
+.box1 {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+.box2 {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border: 1px solid black;
+}
+
+.box3 {
+  height: 100px;
+  width: 100px;
+  background-color: grey;
+  border: 1px solid black;
+}
