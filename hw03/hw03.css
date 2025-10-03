@@ -1,0 +1,25 @@
+.box {
+  width: 500px;
+  height: 50px;
+  padding: 20px;
+  margin: 20px 40px;
+  line-height: 50px;
+  border-radius: 10px;
+  position: relative;
+  display: none;
+  background-color: white;
+}
+
+.back-ground {
+  background-color: grey;
+}
+
+.btn-close {
+  position: absolute;
+  top: 0;
+  right: 10px;
+}
+
+#btn:hover, .btn-close:hover {
+  cursor: pointer;
+}
